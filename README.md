@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+🔭 I’m currently working on Web System Development. 
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -8,13 +10,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Best Language, Frameworks, and Tools
+# 
+
+## My Best Language, Frameworks, and Tools
 ![](https://skillicons.dev/icons?i=typescript,js,dart,php,py,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=15)
 
-### Programming Languages, Frameworks and Tools
+## Programming Languages, Frameworks and Tools
 ![](https://skillicons.dev/icons?i=typescript,js,ruby,jquery,dart,php,py,pytorch,cs,go,react,rails,redux,vue,flutter,laravel,nextjs,nodejs,figma,vscode,androidstudio,ai,wordpress,materialui,docker,linux,postgres,aws,git&perline=15)
 
-### Now Training
+## Now Training
 ![](https://skillicons.dev/icons?i=django,cs,laravel,redux,nextjs,py,materialui,kubernetes,firebase,gitlab,aws,anaconda,github&perline=15)
 
 <!--
