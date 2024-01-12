@@ -12,10 +12,10 @@
 ![](https://skillicons.dev/icons?i=typescript,js,dart,php,py,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=15)
 
 ### Programming Languages, Frameworks and Tools
-![](https://skillicons.dev/icons?i=typescript,js,ruby,jquery,dart,php,py,pytorch,cs,go,react,rails,redux,vue,flutter,laravel,nextjs,nodejs,figma,vscode,androidstudio,ai,wordpress,materialui,docker,linux,postgres,aws&perline=15)
+![](https://skillicons.dev/icons?i=typescript,js,ruby,jquery,dart,php,py,pytorch,cs,go,react,rails,redux,vue,flutter,laravel,nextjs,nodejs,figma,vscode,androidstudio,ai,wordpress,materialui,docker,linux,postgres,aws,git&perline=15)
 
 ### Now Training
-![](https://skillicons.dev/icons?i=django,cs,laravel,redux,nextjs,py,materialui,kubernetes,firebase,gitlab,aws,anaconda&perline=15)
+![](https://skillicons.dev/icons?i=django,cs,laravel,redux,nextjs,py,materialui,kubernetes,firebase,gitlab,aws,anaconda,github&perline=15)
 
 <!--
 **HirotoTsujii/HirotoTsujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
