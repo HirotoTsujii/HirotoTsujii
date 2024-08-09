@@ -1,11 +1,11 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="left">Hi there 👋</h2>
 
-<p align="center">
+<p align="left">
 🔭 I’m currently working on Web System Development
 </p>
 
-<h2 align="center">📈 Status</h2>
-<p align="center">
+<h2 align="left">📈 Status</h2>
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&count_private=true&show_icons=true&theme=flat" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirotoTsujii&count_private=true&show_icons=true&show_icons=true&theme=flat" />
 </p>
@@ -14,22 +14,22 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h2 align="center">My Best Language, Frameworks, and Tools</h2>
-<p align="center">
+<h2 align="left">My Best Language, Frameworks, and Tools</h2>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,js,dart,php,py,nextjs,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=18&theme=light" />
   </a>
 </p>
 
-<h2 align="center">Programming Languages, Frameworks and Tools</h2>
-<p align="center">
+<h2 align="left">Programming Languages, Frameworks and Tools</h2>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,jquery,pytorch,go,rails,redux,laravel,nodejs,figma,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=18&theme=light" />
   </a>
 </p>
 
-<h2 align="center">Now Training</h2>
-<p align="center">
+<h2 align="left">Now Training</h2>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,cs,materialui,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
   </a>
