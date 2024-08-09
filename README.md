@@ -31,7 +31,7 @@
 <h2 align="left">Now Training</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,cs,materialui,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
+    <img src="https://skillicons.dev/icons?i=django,cs,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
   </a>
 </p>
 
