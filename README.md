@@ -1,25 +1,39 @@
-# Hi there 👋　
+<h2 align="center">Hi there 👋</h2>
 
+<p align="center">
 🔭 I’m currently working on Web System Development
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirotoTsujii&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=onedark&column=9
+<h2 align="center">📈 Status</h2>
+<p align="center">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&count_private=true&show_icons=true&theme=flat" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirotoTsujii&count_private=true&show_icons=true&show_icons=true&theme=flat" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=flat&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-# 
 
-## My Best Language, Frameworks, and Tools
-![](https://skillicons.dev/icons?i=typescript,js,dart,php,py,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=15)
+<h2 align="center">My Best Language, Frameworks, and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,js,dart,php,py,nextjs,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=18&theme=light" />
+  </a>
+</p>
 
-## Programming Languages, Frameworks and Tools
-![](https://skillicons.dev/icons?i=ruby,jquery,pytorch,go,rails,redux,laravel,nextjs,nodejs,figma,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=15)
+<h2 align="center">Programming Languages, Frameworks and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,jquery,pytorch,go,rails,redux,laravel,nodejs,figma,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=18&theme=light" />
+  </a>
+</p>
 
-## Now Training
-![](https://skillicons.dev/icons?i=django,cs,materialui,kubernetes,firebase,gitlab,anaconda,github&perline=15)
+<h2 align="center">Now Training</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,cs,materialui,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
+  </a>
+</p>
 
 <!--
 **HirotoTsujii/HirotoTsujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
