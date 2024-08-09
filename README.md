@@ -24,7 +24,7 @@
 <h2 align="left">Programming Languages, Frameworks and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,jquery,pytorch,go,rails,redux,laravel,nodejs,figma,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=18&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ruby,jquery,pytorch,go,rails,redux,laravel,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=18&theme=light" />
   </a>
 </p>
 
