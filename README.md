@@ -10,7 +10,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirotoTsujii&count_private=true&show_icons=true&show_icons=true&theme=flat" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=flat&column=9
+[![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=flat&column=9&count_private=true
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
