@@ -6,7 +6,7 @@
 
 <h2 align="left">📈 Status</h2>
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compac&include_all_commits=true&show_icons=true&theme=flat" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&include_all_commits=true&show_icons=true&theme=flat" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirotoTsujii&include_all_commits=true&show_icons=true&show_icons=true&theme=flat" />
 </p>
 
