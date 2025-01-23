@@ -8,7 +8,7 @@
 <p align="left">
 
   <img alt="Top Langs" height="150px" src="https://ghrstats-hirototsujiis-projects.vercel.app/api/top-langs/?username=HirotoTsujii&layout=compact&include_all_commits=true&show_icons=true&theme=flat" />
-  <img alt="github stats" height="150px" src="[https://github-readme-stats.vercel.app](https://ghrstats-hirototsujiis-projects.vercel.app)/api?username=HirotoTsujii&include_all_commits=true&show_icons=true&show_icons=true&theme=flat" />
+  <img alt="github stats" height="150px" src="https://ghrstats-hirototsujiis-projects.vercel.app/api?username=HirotoTsujii&include_all_commits=true&show_icons=true&show_icons=true&theme=flat" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HirotoTsujii&theme=flat&column=9&count_private=true
