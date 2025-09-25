@@ -20,7 +20,7 @@
 <h2 align="left">My Best Language, Frameworks, and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,dart,php,py,nextjs,react,vue,nodejs,flutter,figma,vscode,wordpress&perline=18&theme=light" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,dart,php,py,nextjs,react,vue,nodejs,fastapi,flutter,figma,vscode,wordpress&perline=18&theme=light" />
   </a>
 </p>
 
