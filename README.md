@@ -31,12 +31,12 @@
   </a>
 </p>
 
-<h2 align="left">Now Training</h2>
+<!-- <h2 align="left">Now Training</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,cs,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
   </a>
-</p>
+</p> -->
 
 <!--
 **HirotoTsujii/HirotoTsujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
