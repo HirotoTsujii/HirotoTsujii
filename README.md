@@ -2,6 +2,7 @@
 
 <p align="left">
 🔭 I’m currently working on Web System Development
+   I'm studying English & Computer Science
 </p>
 
 <h2 align="left">📈 Status</h2>
