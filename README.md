@@ -20,14 +20,14 @@
 <h2 align="left">🔭My Best Language, Frameworks, and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,dart,php,py,nextjs,react,vue,nodejs,fastapi,flutter,figma,vscode,wordpress&perline=18&theme=light" />
+    <img src="https://skillicons.dev/icons?i=typescript,php,py,nextjs,react,vue,nodejs,fastapi,vscode&perline=18&theme=light" />
   </a>
 </p>
 
 <h2 align="left">Programming Languages, Frameworks and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,redux,laravel,ruby,rails,jquery,pytorch,androidstudio,ai,materialui,docker,linux,postgres,aws,git&perline=18&theme=light" />
+    <img src="https://skillicons.dev/icons?i=go,redux,pytorch,materialui,docker,linux,postgres,aws&perline=18&theme=light" />
   </a>
 </p>
 
