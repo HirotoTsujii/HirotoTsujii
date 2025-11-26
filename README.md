@@ -27,7 +27,7 @@
 <h2 align="left">Programming Languages, Frameworks and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,redux,pytorch,materialui,docker,linux,postgres,aws&perline=9&theme =light" />
+    <img src="https://skillicons.dev/icons?i=go,redux,pytorch,materialui,docker,linux,postgres,aws&perline=8&theme =light" />
   </a>
 </p>
 
