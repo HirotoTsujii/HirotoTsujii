@@ -27,16 +27,10 @@
 <h2 align="left">Programming Languages, Frameworks and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,redux,pytorch,materialui,docker,linux,postgres,aws&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=go,redux,pytorch,materialui,docker,linux,postgres,aws&perline=9&theme=light" />
   </a>
 </p>
 
-<!-- <h2 align="left">Now Training</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,cs,kubernetes,firebase,gitlab,anaconda,github&perline=18&theme=light" />
-  </a>
-</p> -->
 
 <!--
 **HirotoTsujii/HirotoTsujii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
